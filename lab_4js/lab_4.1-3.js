@@ -1,3 +1,4 @@
+"use strict";
 let book1 = {};
 book1.title = "hhgr86";
 book1.pubYear = 2003;
